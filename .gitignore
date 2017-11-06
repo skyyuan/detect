@@ -7,3 +7,4 @@ pkg/
 src/github.com/
 src/gopkg.in/
 src/detect/lastupdate.tmp
+src/detect/detect
