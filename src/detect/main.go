@@ -13,7 +13,7 @@ import (
 )
 
 var (
-	laddr = flag.String("Addr", "10.10.1.40:30003", "")
+	laddr = flag.String("Addr", "10.10.4.201:30003", "")
 )
 func main() {
 	utils.InitRedisPool()
